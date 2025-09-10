@@ -35,4 +35,4 @@ This simple EDA provides a clear overview of IPL trends, highlights top-performi
 ## 📌 How to Run
 1. Clone the repository:
    ```bash
-  [ git clone https://github.com/your-username/ipl-eda.git](https://github.com/krushna8767/IPL_EDA_Mini_Project.git)
+   [ git clone https://github.com/your-username/ipl-eda.git](https://github.com/krushna8767/IPL_EDA_Mini_Project.git)
